@@ -22,12 +22,12 @@
 **Office hours:** Mon. 10:00-12:00/noon @Zoom (See zoom link and passcode in the pdf syllabus on Canvas)
 *(I can also handle inquiries via email or arrange a Zoom meeting at a different time.)*
 
-**E-mail address:** muhammad.mageed@ubc.ca
+**E-mail address:** See syllabus.
 
-**Portal:** <http://canvas.ubc.ca>
+**Portal:** [link](<http://canvas.ubc.ca>).
 
 **School of Information Welcome Page:** 
-The School of Information has a Welcome Page for new students (\url{https://ischool.ubc.ca/welcome/}), which captures a lot of information to new and returning students get settled. You may find the information therein useful.
+The School of Information has a Welcome Page for new students [link](https://ischool.ubc.ca/welcome/), which captures a lot of information to new and returning students get settled. You may find the information therein useful.
 
 
 ## 1.	Course Rationale & Goal: 
@@ -93,7 +93,7 @@ for this.
 
 | Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
-| 1    | 9-Sep  | Course overview & Unix Intro.    | No readings / [slides_0](https://github.com/UBC-NLP/python2020/blob/master/slides/mam_unix.pptx);  [unix_for_poets](https://github.com/UBC-NLP/python2020/blob/master/handouts/Unixforpoets.pdf) (extra); ```Videos:``` [unix_intro](https://youtu.be/WhRpDfhydRI);[extra_unix](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
+| 1    | 13-Sep  | Course overview & Unix Intro.    | No readings / [slides_0](https://github.com/UBC-NLP/python2020/blob/master/slides/mam_unix.pptx);  [unix_for_poets](https://github.com/UBC-NLP/python2020/blob/master/handouts/Unixforpoets.pdf) (extra); ```Videos:``` [unix_intro](https://youtu.be/WhRpDfhydRI);[extra_unix](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
 | 2    | 16-Sep | Python Intro., Editors & Literals | Hetland CH01 / [slides_1](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_one.ipynb); ```Videos:``` [coding_as_cooking](https://www.youtube.com/watch?v=yYpAAyFNDAw&feature=youtu.be); [Python_tools](https://www.youtube.com/watch?v=JhniWzX5jTw&feature=youtu.be); [literals](https://youtu.be/o4qX3YAawMw); [extra_literals](https://drive.google.com/file/d/1voBbBiDhNtA30H4tKJbnjsvfHMOsUjii/view?usp=sharing) | hw 1 out               |
 | 3    | 23-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [slides_2](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_two.ipynb)  & [slides_3](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_three.ipynb); ```Videos:``` [strings_0](https://youtu.be/Tk7yys4dHJE); [lists_tuples](https://youtu.be/5ESL6O_lfPg) |                            |
 | 4    | 30-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_four.ipynb); ```Videos:``` [strings_I](https://youtu.be/Rw4g-92lmLk); [strings_II](https://youtu.be/WlTdRv2KEgE)  | hw 1 due; hw 2 out |
@@ -130,18 +130,11 @@ for this.
 
 | Week | Date   | Time                            | 
 |------|--------|----------------------------------|
-| 1   | 10-Sep   | 4pm-5pm | 
-| 2   | 17-Sep   | 4pm-5pm | 
-| 3   | 24-Sep   | 4pm-5pm | 
-| 4   | 1-Oct   | 4pm-5pm | 
-| 5   | 8-Oct   | 4pm-5pm | 
-| 6   | 15-Oct   | 4pm-5pm | 
-| 7   | 22-Oct   | 4pm-5pm | 
-| 8   | 29-Oct   | 4pm-5pm | 
-| 9   | 5-Nov   | 4pm-5pm | 
-| 10   | 12-Nov   | 4pm-5pm | 
-| 11   | 19-Nov   | 4pm-5pm | 
-| 12   | 26-Nov   | 4pm-5pm | 
+|   |   |  | 
+|   |   |  | 
+|   |   |  | 
+|   |   |  | 
+|   |   |  | 
 
 
 ## 8. Course Assignments/Grades:
