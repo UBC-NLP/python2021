@@ -6,24 +6,11 @@
 
 **Program:** iSchool (MLIS, Dual). Linguistics graduate programs
 
-**Year:** Winter Session I 2020
-
-**Time:** Wed. 9:00–11:50 p.m.
-
 ```Time Breakdown```
 
-***Watch recorded video:*** 9:00-10:30
-***Live Q & A:*** 10:30-11:50
-
-**Teaching Mode:** Synchronous via Zoom + Asynchronous (Mediated via Canvas)
+**Teaching Mode:** In-Person
 
 **See "pdf" syllabus on Canvas for Zoom meeting link and passcode**
-
-**COVID-19 Teaching Mode Remark:** 
-The instructor may need to switch teaching modes should unexpected emergencies arise in his family circle. I borrow the following notes on teaching mode policy from FRST 430/533C (Advanced Biometrics):
-
-"We are all aware that the impact of COVID-19 has been devastating on all of our lives and communities. Class instruction of primary and secondary schools is planned to resume in person in September. Yet, as we move towards the cooler months, indoor activities will increase and it is likely that the Province of British Columbia will continue to adjust its guidance with regards to schools, work, and recreation activities. Therefore, it is important that I plan for contingencies, should circumstances change and I am unable to hold live online lectures and activities as outlined above. Rest assured, details on changes will be posted on Canvas if this happens and I will be as transparent and clear as possible in my expectations if these changes are required to occur." *Kindly provided by Heather O’Brien and communicated by Erik Kwakkel.*
-
 
 **Instructor:** Dr. Muhammad Abdul-Mageed
 
@@ -32,7 +19,7 @@ The instructor may need to switch teaching modes should unexpected emergencies a
 
 **Office phone:** (Apologies, I do not use office phone. Please email me)
 
-**Office hours:** Wed. 12:00-14:00pm @Zoom (See zoom link and passcode in the pdf syllabus on Canvas)
+**Office hours:** Mon. 10:00-12:00/noon @Zoom (See zoom link and passcode in the pdf syllabus on Canvas)
 *(I can also handle inquiries via email or arrange a Zoom meeting at a different time.)*
 
 **E-mail address:** muhammad.mageed@ubc.ca
@@ -245,16 +232,9 @@ The final deliverable should include:
 
 ## 9. Course Policies
 
-**COVID-19-Related | Contingencies and COVID-19 Accommodation**
+**COVID-Related Information:
 
-Your instructor is committed to availing the best learning experience to you, including during the time of the pandemic. Should you have any difficulties, challenges, issues, etc. that impede your learning, please contact the instructor as soon as you can. Together, we can approach the learning process with engagement, kindness, and empathy. I want you to know I feel it is a privilege to have you in my course. Please help me serve you in the best ways possible by keeping me informed. I also invite you to extend support, kindness, and empathy to your classmates.
-
-**COVID-19-Related | Online Learning for International Students**
-
- From UBC Provost and Vice-President Academic, UBC Vancouver, September 2, 2020:   
-
-During this pandemic, the shift to online learning has greatly altered teaching and studying at UBC, including changes to health and safety considerations. Keep in mind that some UBC courses might cover topics that are censored or considered illegal by non-Canadian governments. This may include, but is not limited to, human rights, representative government, defamation, obscenity, gender or sexuality, and historical or current geopolitical controversies. If you are a student living abroad, you will be subject to the laws of your local jurisdiction, and your local authorities might limit your access to course material or take punitive action against you. UBC is strongly committed to academic freedom, but has no control over foreign authorities (please visit [http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,33,86,0](link) for an articulation of the values of the University conveyed in the Senate Statement on Academic Freedom). Thus, we recognize that students will have legitimate reason to exercise caution in studying certain subjects. If you have concerns regarding your personal situation, consider postponing taking a course with manifest risks, until you are back on campus or reach out to your academic advisor to find substitute courses. For further information and support, please visit: [http://academic.ubc.ca/support-resources/freedom-expression](link).
-
+[See this link](https://ischool.ubc.ca/about/about-the-ischool/covid-19-faq-and-resources/).
 
 **Attendance:** The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
 
