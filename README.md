@@ -142,7 +142,7 @@ for this.
 | ---------- | -------- | ------ |
 | Professionalization & online class attendance |  | 15% |
 | ASSIGNMENT 0: In-Class & Video Tutorial Code | Throughout weeks 2-11 | 15% |
-| Homework 1: | Sept. 27 | 10% |
+| Homework 1: | Oct 4 | 10% |
 | Homework 2: | Oct 18 | 10% |
 | Homework 3: | Nov 8 | 10% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
