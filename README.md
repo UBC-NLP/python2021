@@ -106,9 +106,6 @@ for this.
 | 11    | 22-Nov| Exceptions                       | Hetland CH08 /[slides_9](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_nine.ipynb); ```videos:``` [exceptions](https://youtu.be/Bpfn5CiNgvQ)   |                            |
 | 11   | 29-Nov  | Modules &  Files                            | Hetland CH10 /[slides_10](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_ten.ipynb); Hetland CH11 /[slides_11_A](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_eleven_A.ipynb); ```Extra:``` [slides_11_B](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_eleven_B.ipynb); ```videos:``` [modules](https://youtu.be/rmbQUlzIB80); [files](https://youtu.be/NYI6TEdzrTo)   |                            |
 | 13   | 6-Dec  | Text processing                  | nltk-book CH03 / [slide_12](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_twelve.ipynb); ```Videos:``` [file_practice_1](https://youtu.be/u2P4353pddQ); [file_practice_2](https://youtu.be/lVIfY_Ce58c); [text_processing](https://youtu.be/xkOjM3WbnlE); ```Extra (Optional)``` (A bit advanced) [Sorting](https://youtu.be/_OI2w5BBkQ0) | Final paper due Dec. 6th at 11:59 pm|
-
----
-
 | --   | -- | Extra Content          | [API & Pandas](https://github.com/UBC-NLP/python2020/blob/master/slides/api_and_short_panda_tutorial.ipynb); [Twitter Crawling](https://github.com/UBC-NLP/python2020/blob/master/slides/Crawling_Twitter.ipynb); [Rule-Based Sentiment Analysis](https://github.com/UBC-NLP/python2020/blob/master/slides/sentiment_rule_based_classifier.ipynb)   | |
 
 ## Extra Videos (NLP & Machine Learning)
